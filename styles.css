@@ -1,0 +1,29 @@
+body
+ {
+   background-color: azure;
+ }
+
+hr
+ {
+    background-color: white;
+    border-style: dotted none none ;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    width:10%;
+ }
+h1
+{
+  color:red;
+}
+h2
+{
+ color: green;
+}
+h3
+{
+  color:green;
+}
+img{
+  background-color:black;
+}
